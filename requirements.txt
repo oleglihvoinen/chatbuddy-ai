@@ -1,0 +1,15 @@
+requests==2.31.0
+python-dotenv==1.0.1
+pymongo==4.6.1
+rich==13.7.0
+typer==0.9.0
+
+# Optional: If integrating Python clients for LLMs
+openai==1.14.0
+
+# Optional: For local testing or scripting
+fastapi==0.110.1
+uvicorn==0.29.0
+
+# Optional: For JSON schema validation
+pydantic==2.6.4
